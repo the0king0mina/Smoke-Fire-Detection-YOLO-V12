@@ -1,6 +1,6 @@
 # 🔥 Smoke & Fire Detection using YOLOv12
 
-![YOLOv8 Banner](https://ultralytics.com/images/yolo-banner.webp)
+![YOLO Logo](https://ultralytics.com/images/logo.svg)
 
 
 An advanced real-time **Smoke and Fire Detection System** built using **YOLOv12** for object detection.  
