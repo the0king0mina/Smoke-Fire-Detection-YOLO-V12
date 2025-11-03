@@ -1,6 +1,7 @@
 # 🔥 Smoke & Fire Detection using YOLOv12
 
-![YOLOv12 Banner](https://github.com/ultralytics/assets/raw/main/banner/yolo-banner.png)
+![YOLOv8 Banner](https://ultralytics.com/images/yolo-banner.webp)
+
 
 An advanced real-time **Smoke and Fire Detection System** built using **YOLOv12** for object detection.  
 This project detects smoke and fire in video streams or live camera feeds with high accuracy and speed.
@@ -43,12 +44,7 @@ The system can be used for early fire detection in surveillance cameras, industr
 The detection model is based on **YOLOv12**, trained on a custom dataset of smoke and fire images.  
 You can fine-tune or retrain it using the training notebook provided.
 
----
-
-## 🎬 Demo Video
-
-🎥 Add your test video to `assets/test_video.mp4`  
-*(Or upload it to YouTube and link it here.)*
+--
 
 ---
 
@@ -95,16 +91,8 @@ Listed in `requirements.txt`.
 ## 👨‍💻 Author
 
 **Mina Nabil**  
-📧 your-email@example.com  
-🔗 [GitHub Profile](https://github.com/<your-username>)
-
----
-
-## 🇪🇬 الوصف بالعربية
-
-نظام ذكي لاكتشاف **الدخان والنار في الوقت الحقيقي** باستخدام نموذج **YOLOv12**.  
-يهدف المشروع إلى المساهمة في أنظمة السلامة المبكرة من الحرائق في المصانع والمنازل والمدن الذكية.  
-يتميز المشروع بسهولة الاستخدام والدقة العالية في الكشف عن الحرائق والدخان في مقاطع الفيديو أو الكاميرا المباشرة.
+📧 mnabilsamir@gmail.com
+🔗 [GitHub Profile](https://github.com/<the0king0mina>)
 
 ---
 
